@@ -1,0 +1,5 @@
+{
+  "password_required": "Mật khẩu là bắt buộc",
+  "password_contain_uppercase": "Mật khẩu phải chứa ít nhất một chữ cái viết hoa",
+  "phone": "số điện thoại không hợp lệ"
+}

@@ -1,0 +1,5 @@
+{
+  "password_required": "Password is required",
+  "password_contain_uppercase": "Password must contain at least one uppercase letter",
+  "phone": "invalid phone number"
+}
